@@ -1,6 +1,6 @@
 # React Project - Movie Website
 
-### Preview: http://sungwons.github.io/React_Movie
+### Preview: http://sungwons.github.io/React_MovieApp
 
 ## Screens (Routes)
  - Home
